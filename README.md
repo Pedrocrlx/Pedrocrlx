@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @Pedrocrlx
-- 👀 I’m interested in HTML and CSS
-- 🌱 I’m currently learning HTML and CSS too
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning JavaScript, TypeScript, Jquery and PHP.
 
 <!---
 Pedrocrlx/Pedrocrlx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
