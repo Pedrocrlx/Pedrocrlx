@@ -1,40 +1,48 @@
 # Pedro Santos
 
-Estudante de **Programação Web** na **ETIC Algarve**, com foco prático em backend, frontend e containers, aplicado em projetos colaborativos.
-
-## Formação
-
-**Curso:** Programação Web (2 anos)  
-**Escola:** ETIC Algarve  
-**Estado:** Final do 1.º ano
-
-Durante o curso, estou a aprofundar os seguintes temas:
-
-- Desenvolvimento backend com Python (FastAPI, Django)  
-- Desenvolvimento frontend com HTML, CSS, React e Next.js  
-- Utilização de Git e GitHub em contexto colaborativo  
-- Containers Docker, Docker Compose e DevContainers para ambientes portáteis  
-- Ferramentas modernas de desenvolvimento, incluindo VSCode e integração de ambientes
-
-## Competências Atuais
-
-Tenho conhecimentos sólidos e aplicados em:
-
-- **Python**, incluindo frameworks FastAPI e Django  
-- **Frontend** com HTML, CSS, React e Next.js (fundamentos)  
-- **Containers Docker** e configuração com Docker Compose  
-- **DevContainers** para desenvolvimento consistente no VSCode  
-- **Git e GitHub** para versionamento e trabalho em equipa  
-- Estruturação de projetos backend com foco em clareza, modularidade e escalabilidade
-
-## Objetivos
-
-Procuro consolidar e expandir as minhas competências técnicas, explorando áreas como:
-
-- Integração de agentes de inteligência artificial em aplicações web  
-- Melhoria de processos com DevOps e automação  
-- Desenvolvimento de soluções colaborativas, práticas e bem documentadas para contextos educacionais e profissionais
-
-Estou disponível para colaborações técnicas, aprendizagem contínua e projetos que envolvam backend, frontend, infraestrutura ou aplicações web com propósito claro.
+**Web Programming Student at ETIC Algarve | Backend & Frontend | Containers & DevOps **
 
 ---
+
+## About Me
+
+I am a Web Programming student at ETIC Algarve with practical experience in **both backend and frontend development**, as well as **containerized environments**. I enjoy collaborating on projects, building scalable solutions, and continuously improving my skills in modern web technologies.  
+
+My main interest is **frontend development**, but I am fully equipped and comfortable working in **backend** environments as well.
+
+---
+
+## Education
+
+**Web Programming Course** (2 years) — ETIC Algarve  
+*Currently in the final year*  
+
+During the course, I have been deepening my knowledge in:
+
+- **Backend development**: Python, FastAPI, Django  
+- **Frontend development**: HTML, CSS, React, Next.js  
+- **Version control**: Git and GitHub in collaborative contexts  
+- **Containers**: Docker, Docker Compose for portable and reproducible environments  
+- **Modern development tools**: VSCode, environment integration  
+
+---
+
+## Skills
+
+- **Programming languages & frameworks**: Python (FastAPI, Django), HTML, CSS, React, Next.js (foundations)  
+- **Containers & DevOps**: Docker, Docker Compose  
+- **Version control & collaboration**: Git, GitHub  
+- **Project structure & design**: Modular, scalable, and maintainable backend architectures  
+
+---
+
+## Interests & Goals
+
+I aim to **expand my technical skills** while contributing to projects in:
+
+- Web applications combining **frontend and backend technologies**  
+- Integration of **AI agents into web apps**  
+- **DevOps practices and automation**  
+- Collaborative, well-documented solutions for educational or professional contexts  
+
+I am open to **technical collaborations, internships, and projects** involving backend, frontend, infrastructure, or web applications with a clear purpose.
