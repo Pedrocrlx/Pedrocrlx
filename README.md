@@ -1,6 +1,6 @@
 # Pedro Santos
 
-**Web Programming Student at ETIC Algarve | Backend & Frontend | Containers & DevOps **
+** Web Programming Student at ETIC Algarve | Backend & Frontend | Containers & DevOps **
 
 ---
 
